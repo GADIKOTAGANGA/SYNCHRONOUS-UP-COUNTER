@@ -1,5 +1,9 @@
 ### SYNCHRONOUS-UP-COUNTER
 
+NAME:G.GANGA DEVI
+REG NO: 212224240042
+DATE: 12-11-25
+
 **AIM:**
 
 To implement 4 bit synchronous up counter and validate functionality.
